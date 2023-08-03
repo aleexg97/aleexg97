@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+## BIENVENIDO A MI GITHUB
+
+<html>
+  <div>
+    <p> <img src="https://github.com/aleexg97/aleexg97/blob/main/AlexFoto.png"></img> Soy Alex, un joven de 25 años con ganas de aprender y hacer muchos proyectos ! 😃</p>
+  </div>
+</html>
+
 <!--
 **aleexg97/aleexg97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,6 +27,12 @@ Here are some ideas to get you started:
   <div>
     <h3>Bienvenidos</h3>
   </div>
+  <div style="font-size:50px">
+    <p style="font-size:50">HOLA</p>
+</div>
 </html>
 
-![alex](https://github.com/aleexg97/aleexg97/blob/main/AlexFoto.png)
+**HOLA**
+EMOJICODE: 😺;
+### ![alex](https://github.com/aleexg97/aleexg97/blob/main/AlexFoto.png)  |  HOLA , Soy Alex 😄
+
